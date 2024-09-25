@@ -18,6 +18,7 @@ Author: Harsh Mogalgiddikar
 </p>
 <br>
 <br>
+<h4><b><i>Project 3 : Random Password Generator</i></b></h4>
 <p>
   I guess this is one project everyone does at some point in time. Although seemed easy at first and condtions needed to check/compare were a bit tricky and needed some thinking. String manupilation, handling user input and finally implementation of randomizer was very fun and learning to do. 
 </p>
