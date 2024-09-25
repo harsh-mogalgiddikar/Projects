@@ -16,3 +16,8 @@ Author: Harsh Mogalgiddikar
 <p>
   One of the most basic level projects I thought I could implement was a task manager. The task manager I made had only a few fucntions and not the best data handling algorithm is being used. However i also learned a lot while working on this project, about different operations that can be done on arrays,switch-case,to check for conditions when taking inputs from user etc.  
 </p>
+<br>
+<br>
+<p>
+  I guess this is one project everyone does at some point in time. Although seemed easy at first and condtions needed to check/compare were a bit tricky and needed some thinking. String manupilation, handling user input and finally implementation of randomizer was very fun and learning to do. 
+</p>
